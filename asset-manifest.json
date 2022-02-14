@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/webdev/static/css/main.4c0db05d.css",
-    "main.js": "/webdev/static/js/main.d76825e4.js",
+    "main.js": "/webdev/static/js/main.ecf77fa8.js",
     "static/js/787.8a128c11.chunk.js": "/webdev/static/js/787.8a128c11.chunk.js",
     "static/media/want-to-buy-hp.png": "/webdev/static/media/want-to-buy-hp.0893e7ed08997531aeee.png",
     "static/media/horiseon_hp_med.png": "/webdev/static/media/horiseon_hp_med.7cafcbe33607c9a0cd64.png",
@@ -10,11 +10,11 @@
     "static/media/profile.jpg": "/webdev/static/media/profile.d77b9397179eb122769a.jpg",
     "index.html": "/webdev/index.html",
     "main.4c0db05d.css.map": "/webdev/static/css/main.4c0db05d.css.map",
-    "main.d76825e4.js.map": "/webdev/static/js/main.d76825e4.js.map",
+    "main.ecf77fa8.js.map": "/webdev/static/js/main.ecf77fa8.js.map",
     "787.8a128c11.chunk.js.map": "/webdev/static/js/787.8a128c11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4c0db05d.css",
-    "static/js/main.d76825e4.js"
+    "static/js/main.ecf77fa8.js"
   ]
 }
