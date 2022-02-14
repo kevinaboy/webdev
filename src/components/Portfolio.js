@@ -1,5 +1,8 @@
 import React from 'react';
 
+import wantToBuyImg from '..assets/img/want-to-buy-hp.png';
+import topThreeTacosImg from '..assets/img/tacoshop_hp_med.png';
+import codeRefactorImg from '..assets/img/horiseon_hp_med.png';
 import runBuddyImg from '../assets/img/run_buddy.jpg';
 
 
@@ -15,7 +18,7 @@ function Portfolio(props) {
             <div className="row">
               <div className="col-sm-12 col-md-4">
                 <div className="card">
-                  <img className="card-img-top" src="assets/images/want-to-buy-hp.png" alt="Want To Buy Homepage Screenshot" />
+                  <img className="card-img-top" src={wantToBuyImg} alt="Want To Buy Homepage Screenshot" />
                   <div className="card-body">
                     <h5 className="card-title">Want To Buy</h5>
 
@@ -32,7 +35,7 @@ function Portfolio(props) {
               </div>
               <div className="col-sm-12 col-md-4">
                 <div className="card">
-                  <img className="card-img-top" src="assets/images/tacoshop_hp_med.png" alt="Top 3 Taco Shops Homepage Screenshot" />
+                  <img className="card-img-top" src={topThreeTacosImg} alt="Top 3 Taco Shops Homepage" />
                   <div className="card-body">
                     <h5 className="card-title">Top 3 Taco Shops</h5>
 
@@ -48,7 +51,7 @@ function Portfolio(props) {
               </div>
               <div className="col-sm-12 col-md-4">
                 <div className="card">
-                  <img className="card-img-top" src="assets/images/horiseon_hp_med.png" alt="Card image cap" />
+                  <img className="card-img-top" src={codeRefactorImg} alt="Horiseon Code Refactor Home Page" />
                   <div className="card-body">
                     <h5 className="card-title">Code Refactor</h5>
                     <p className="card-text">Reworked the CSS to make it more efficient by consolidating CSS selectors and
