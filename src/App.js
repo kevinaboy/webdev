@@ -3,6 +3,7 @@ import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import Portfolio from './components/Portfolio';
 import Animation from './components/Animation';
+import ContactForm from './components/ContactForm';
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
               <a className="social-icon" href="https://www.linkedin.com/in/kevinaboy"><i
                 className="fab fa-linkedin-in"></i></a>
               <a className="social-icon" href="https://github.com/kevinaboy"><i className="fab fa-github"></i></a>
+              <a className="social-icon" href="https://stackoverflow.com/users/16827977/kevinaboy"><i className="fab fa-stack-overflow"></i></a>
               {/*
         <!-- <a className="social-icon" href="#!"><i className="fab fa-twitter"></i></a>
         <a className="social-icon" href="#!"><i className="fab fa-facebook-f"></i></a> --> */}
@@ -153,7 +155,8 @@ function App() {
         <hr className="m-0" />
 
         <Portfolio />
-
+        <hr className="m-0" />
+        <ContactForm />
       </div >
       <Footer />
     </>
