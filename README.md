@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a recreation of my original [portfolio](https://github.com/kevinaboy/portfolio).
 
-**Website**: https://kevinaboy.github.io/portfolio-react/
+**Website**: https://kevinaboy.github.io/webdev/
 
 ## Get Started with Create-React-App
 ### Available Scripts
