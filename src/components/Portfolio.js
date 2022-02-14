@@ -1,8 +1,8 @@
 import React from 'react';
 
-import wantToBuyImg from '..assets/img/want-to-buy-hp.png';
-import topThreeTacosImg from '..assets/img/tacoshop_hp_med.png';
-import codeRefactorImg from '..assets/img/horiseon_hp_med.png';
+import wantToBuyImg from '../assets/img/want-to-buy-hp.png';
+import topThreeTacosImg from '../assets/img/tacoshop_hp_med.png';
+import codeRefactorImg from '../assets/img/horiseon_hp_med.png';
 import runBuddyImg from '../assets/img/run_buddy.jpg';
 
 
