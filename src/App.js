@@ -3,7 +3,6 @@ import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import Portfolio from './components/Portfolio';
 import Animation from './components/Animation';
-import ContactForm from './components/ContactForm';
 
 function App() {
   return (
@@ -29,7 +28,6 @@ function App() {
               <a className="social-icon" href="https://www.linkedin.com/in/kevinaboy"><i
                 className="fab fa-linkedin-in"></i></a>
               <a className="social-icon" href="https://github.com/kevinaboy"><i className="fab fa-github"></i></a>
-              <a className="social-icon" href="https://stackoverflow.com/users/16827977/kevinaboy"><i className="fab fa-stack-overflow"></i></a>
               {/*
         <!-- <a className="social-icon" href="#!"><i className="fab fa-twitter"></i></a>
         <a className="social-icon" href="#!"><i className="fab fa-facebook-f"></i></a> --> */}
@@ -89,7 +87,7 @@ function App() {
                 <h3 className="mb-0">University of Texas at Austin</h3>
                 <div className="subheading mb-3">Coding Boot Camp Certificate Program</div>
                 <div>Roles: Project Lead, Designer, Developer</div>
-                <p>HTML, CSS, JavaScript, jQuery, Express.js, React.js, Node.js, MongoDB, MySQL, Command Line, Git, and
+                <p>HTML, CSS, JavaScript, jQuery, Express.js, React.js, Node.js, MongoDB, MySQL, GraphQL, Command Line, Git, and
                   GitHub.</p>
               </div>
               <div className="flex-shrink-0"><span className="text-primary">September 2021 - March 2022</span></div>
@@ -155,8 +153,7 @@ function App() {
         <hr className="m-0" />
 
         <Portfolio />
-        <hr className="m-0" />
-        <ContactForm />
+
       </div >
       <Footer />
     </>
