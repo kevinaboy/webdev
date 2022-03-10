@@ -5,6 +5,7 @@ import tacoShopImg from '../assets/img/tacoshop_hp_med.png';
 import wantToBuyImg from '../assets/img/want-to-buy-hp.png';
 import runBuddyImg from '../assets/img/run_buddy.jpg';
 import horiseonImg from '../assets/img/horiseon_hp_med.png';
+import readmeImg from '../assets/img/readme-generator.jpeg';
 
 
 
@@ -80,6 +81,16 @@ function Portfolio(props) {
       <!-- <p>Coming soon...</p> --> */}
           <div className="container">
             <div className="row">
+              <div className="col-sm-12 col-md-4">
+                <div className="card">
+                  <img className="card-img-top" src={readmeImg} alt="Card image cap" />
+                  <div className="card-body">
+                    <h5 className="card-title">ReadMe Generator</h5>
+                    <p className="card-text">Want a faster way to create ReadMe files for your next project? This command-line application dynamically generates a professional README.md file from a user's input using the Inquirer package.</p>
+                    <a href="https://github.com/kevinaboy/readme-generator/" className="card-link">View repo</a>
+                  </div>
+                </div>
+              </div>
               <div className="col-sm-12 col-md-4">
                 <div className="card">
                   <img className="card-img-top" src={horiseonImg} alt="Card image cap" />
