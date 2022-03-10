@@ -157,7 +157,7 @@ function App() {
 
       </div >
       <ContactForm />
-      <Footer />
+      <Footer /> 
     </>
 
   );

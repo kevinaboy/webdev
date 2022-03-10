@@ -5,7 +5,7 @@ import tacoShopImg from '../assets/img/tacoshop_hp_med.png';
 import wantToBuyImg from '../assets/img/want-to-buy-hp.png';
 import runBuddyImg from '../assets/img/run_buddy.jpg';
 import horiseonImg from '../assets/img/horiseon_hp_med.png';
-import readmeImg from '../assets/img/readme-generator.jpeg';
+import readmeImg from '../assets/img/readme-generator.png';
 
 
 
