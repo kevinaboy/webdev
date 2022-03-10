@@ -21,7 +21,7 @@ function App() {
             <div className="subheading mb-5">
               <a href="mailto:kaboy@icloud.com">kaboy@icloud.com</a>
             </div>
-            <p className="lead mb-5">I am a Front-End Developer at Apple with over 12 years experience within Apple. My journey involves leading teams, managing projects, developing websites, solving technical issues for customers, and working with our engineers to make the best products possible.<br /><br />About two years ago, around the time I hit my 10 years with Apple, I enrolled and completed the Project Management Certificate Program at UT Austin. I had so much fun in that course that I decided to enrol in a coding bootcamp last summer. I am proud to share that I recently graduated from the Full Stack Web Developer Coding Boot Camp at UT Austin. While this brings a close to a wonderful experience, I know the journey has only begun.</p>
+            <p className="lead mb-5">I am a Front-End Developer at Apple with over 12 years of work experience within Apple. My journey involves leading teams, managing projects, developing websites, solving technical issues for customers, and working with our engineers to make the best products possible.<br /><br />Driven to enhance my technical skills, I completed two certificate programs at UT Austin, the Project Management Certificate Program, and more recently, the Full Stack Web Developer Coding Boot Camp. I'm thrilled to continue my developer journey in a Frontend Mentorship Program at Apple.</p>
             <a href="https://app.box.com/s/26ip056beb2pie3ybhhsa2ykipib843z" class="btn btn-primary btn-md text-white" role="button">View resume</a>
             <br />
             <br />
@@ -157,7 +157,7 @@ function App() {
 
       </div >
       <ContactForm />
-      <Footer /> 
+      <Footer />
     </>
 
   );
