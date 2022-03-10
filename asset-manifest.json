@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/webdev/static/css/main.8a504830.css",
-    "main.js": "/webdev/static/js/main.e2dff5ff.js",
+    "main.js": "/webdev/static/js/main.3861f2cd.js",
     "static/js/787.8a128c11.chunk.js": "/webdev/static/js/787.8a128c11.chunk.js",
     "static/media/marvelous-homepage.png": "/webdev/static/media/marvelous-homepage.83119f6f19d9a2f4ec79.png",
     "static/media/want-to-buy-hp.png": "/webdev/static/media/want-to-buy-hp.0893e7ed08997531aeee.png",
     "static/media/horiseon_hp_med.png": "/webdev/static/media/horiseon_hp_med.7cafcbe33607c9a0cd64.png",
     "static/media/run_buddy.jpg": "/webdev/static/media/run_buddy.6dbaca159fe39b996df3.jpg",
     "static/media/tacoshop_hp_med.png": "/webdev/static/media/tacoshop_hp_med.3bcdd6df24aff0863554.png",
+    "static/media/readme-generator.jpeg": "/webdev/static/media/readme-generator.715dc1125648a68e023e.jpeg",
     "static/media/profile.jpg": "/webdev/static/media/profile.d77b9397179eb122769a.jpg",
     "index.html": "/webdev/index.html",
     "main.8a504830.css.map": "/webdev/static/css/main.8a504830.css.map",
-    "main.e2dff5ff.js.map": "/webdev/static/js/main.e2dff5ff.js.map",
+    "main.3861f2cd.js.map": "/webdev/static/js/main.3861f2cd.js.map",
     "787.8a128c11.chunk.js.map": "/webdev/static/js/787.8a128c11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a504830.css",
-    "static/js/main.e2dff5ff.js"
+    "static/js/main.3861f2cd.js"
   ]
 }
