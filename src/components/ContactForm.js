@@ -3,6 +3,7 @@ import React from 'react';
 function ContactForm() {
 
   // JSX
+  <form></form>
   return (
     <section className="contact-section" id="contact">
       <div className="contact-section-content">
@@ -20,7 +21,7 @@ function ContactForm() {
             <label htmlFor="message">Message:</label>
             <textarea name="message" rows="5" />
           </div>
-          <button type="submit">Submit</button>
+          <button class="btn btn-primary btn-md text-white" role="button">Submit</button>
         </form>
       </div>
     </section>

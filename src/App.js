@@ -3,6 +3,7 @@ import Footer from './components/Footer';
 import Navbar from './components/Navbar';
 import Portfolio from './components/Portfolio';
 import Animation from './components/Animation';
+import ContactForm from './components/ContactForm';
 
 function App() {
   return (
@@ -155,6 +156,7 @@ function App() {
         <Portfolio />
 
       </div >
+      <ContactForm />
       <Footer />
     </>
 
